@@ -4,8 +4,9 @@ Simple Calculator on Tk!
 
 ## Features
 
-- Simple UI
-- Basic calculation
+    🗔 Simple UI
+
+    🖥🖩 Basic calculations
 
 ## Installation
 
