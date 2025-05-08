@@ -1,6 +1,6 @@
 # Abacus
 
-Simple Calculator on Tk!
+Simple Calculator on Tk 🪶!
 
 ## Features
 
