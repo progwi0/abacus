@@ -2,13 +2,14 @@
 
 Simple Calculator on Tk 🪶!
 
+![Abacus on KDE Plasma 6.3](./screenshots/Screenshot_20250522_154816.png)
+
 ## Features
 
-    🗔 Simple UI
+- 🗔 Simple UI
 
-    🖥🖩 Basic calculations
+- 🖥🖩 Basic calculations
 
 ## Installation
 
-You can install Abacus via [Pix](https://github.com/progwi0/pix)!
-(or you can download Abacus in releases.)
+You can download Abacus from [releases](https://github.com/progwi0/abacus/releases) or via [Pix](https://github.com/progwi0/pix).
